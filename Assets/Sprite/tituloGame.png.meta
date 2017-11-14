@@ -1,0 +1,103 @@
+fileFormatVersion: 2
+guid: 1050e06e21047514d8ec82019358607c
+timeCreated: 1466791063
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tituloGame_0
+    21300002: tituloGame_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -5
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 100
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: tituloGame_0
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 256
+        width: 362
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 177, y: -4}
+        - {x: 176, y: 20}
+        - {x: 162, y: 33}
+        - {x: 105, y: 34}
+        - {x: 0, y: 82}
+        - {x: -7, y: 90}
+        - {x: -142, y: 90}
+        - {x: -181, y: 27}
+        - {x: -181, y: -35}
+        - {x: -177, y: -47}
+        - {x: -158, y: -92}
+        - {x: -111, y: -92}
+        - {x: -81, y: -68}
+        - {x: 169, y: -49}
+        - {x: 177, y: -41}
+    - name: tituloGame_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 119
+        width: 396
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -197, y: 35}
+        - {x: -198, y: 31}
+        - {x: -198, y: -29}
+        - {x: -193, y: -35}
+        - {x: 196, y: -35}
+        - {x: 196, y: 29}
+        - {x: 188, y: 35}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
